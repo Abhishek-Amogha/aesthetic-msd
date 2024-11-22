@@ -55,7 +55,7 @@ You can use the following bash function (MSD_divideAesthetise) to automate the e
     
     MSD_divideAesthetise() {
     # Define the source path for the Python file
-    SOURCE_PATH=~/Desktop/Project/AestheticCompileMSD.py
+    SOURCE_PATH=~/ path to AestheticCompileMSD.py
 
     # Copy the AestheticCompileMSD.py file to the current directory (optional)
     cp "$SOURCE_PATH" .
