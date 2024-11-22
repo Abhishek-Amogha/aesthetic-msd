@@ -26,7 +26,7 @@ Additionally, the Python script relies on the following built-in library:
 
 Clone the repository to your local machine using Git:
 
-    git clone https://github.com/yourusername/aesthetic-msd.git
+    git clone https://github.com/Abhishek-Amogha/aesthetic-msd.git
     cd aesthetic-msd'
 
 1.1 Compile the graphs you want to Aesthetise
